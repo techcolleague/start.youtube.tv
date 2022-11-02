@@ -1,6 +1,6 @@
 # start youtube tv
 
-[![start youtube tv](gett-stateed.png)](https://github.com/techcolleague/start.youtube.tv)
+[![start youtube tv](gett-stateed.png)](https://computer-solved.com/start-youtube-tv/)
 
 * Open the YouTube app on your device.
 * On the left side navigation, scroll down to the bottom to find YouTube TV.
